@@ -31,5 +31,6 @@
 	</dependencies>
   <modules>
     <module>console-appender-xml</module>
+    <module>slf4j-integration</module>
   </modules>
 </project>
