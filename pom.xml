@@ -32,5 +32,6 @@
   <modules>
     <module>console-appender-xml</module>
     <module>slf4j-integration</module>
+      <module>modify-appender-configuration-after-initialization</module>
   </modules>
 </project>

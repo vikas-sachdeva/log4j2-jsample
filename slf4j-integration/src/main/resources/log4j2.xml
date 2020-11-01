@@ -16,7 +16,7 @@
 		<Logger name="log4j2.jsample" level="info" additivity="false">
 			<appender-ref ref="consoleAppender" />
 		</Logger>
-		<Root level="error" additivity="false">
+		<Root level="error">
 			<appender-ref ref="consoleAppender" />
 		</Root>
 	</Loggers>
